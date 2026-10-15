@@ -1,7 +1,3 @@
-## Hi there 👋
-
-**jennifer-r-parker/jennifer-r-parker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Jennifer Parker
 
 Engineering leader in Manchester, NH. I started as a software engineer and still lead close to the work: architecture, design reviews, and troubleshooting alongside my teams.
@@ -13,7 +9,7 @@ Engineering leader in Manchester, NH. I started as a software engineer and still
 
 **Building now**
 
-A homework-support companion app built with Claude Code, adding a Python API with Postgres, and MCP server as I go.
+A homework-support companion app built with Claude Code, adding a Python API with Postgres, and an MCP server as I go.
 
 [LinkedIn](https://www.linkedin.com/in/jenniferrparker)
 
