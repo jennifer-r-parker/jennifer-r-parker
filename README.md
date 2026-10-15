@@ -9,7 +9,7 @@ Engineering leader in Manchester, NH. I started as a software engineer and still
 
 **Building now**
 
-A homework-support companion app built with Claude Code, adding a Python API with Postgres, and an MCP server as I go.
+A homework-support companion app built with Claude Code, adding a Python API with Postgres and an MCP server as I go.
 
 [LinkedIn](https://www.linkedin.com/in/jenniferrparker)
 
